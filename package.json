@@ -1,0 +1,26 @@
+{
+  "name": "code-format",
+  "version": "1.0.0",
+  "description": "Foobar is a Python library for dealing with word pluralization.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "prettier --check .",
+		"format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartsystemco/code-format.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartsystemco/code-format/issues"
+  },
+  "homepage": "https://github.com/smartsystemco/code-format#readme",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "prettier": "^2.7.1"
+  }
+}
