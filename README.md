@@ -1,6 +1,6 @@
 # Code Format
 
-Foobar is a Python library for dealing with word pluralization.
+This project is built using husky and prettier to format the codes before pushing them to Git.
 
 ## Installation Husky
 
